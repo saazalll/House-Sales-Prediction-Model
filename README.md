@@ -1,2 +1,6 @@
-# House-Sales-Prediction-Model
-This model performs an analysis and builds a predictive model for house prices using the King County House Sales dataset.
+🚀 How to Run
+Download the dataset: kc_house_data.csv
+
+Place it inside a data/ folder in the project directory.
+
+Open and run the notebook:
